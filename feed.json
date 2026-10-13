@@ -1,0 +1,12 @@
+{
+  "anchorMs": 1791595466820,
+  "timing": {
+    "openMin": 60,
+    "resetMin": 5,
+    "chargeMin": 120,
+    "driftMs": 350
+  },
+  "fetchedAt": 1791845510973,
+  "source": "exec.xyxyll.com",
+  "version": "2.2.30"
+}
